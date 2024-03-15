@@ -40,11 +40,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nancyKasaudhan20/my-youtube.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/nancyKasaudhan20/my-youtube/issues"
-  },
-  "homepage": "https://github.com/nancyKasaudhan20/my-youtube#readme"
+  }
 }
